@@ -1,3 +1,4 @@
+"use strict";
 // const hello = "world";
 var object1 = {
     name12: 'sandy',

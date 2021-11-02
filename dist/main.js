@@ -1,3 +1,4 @@
+"use strict";
 var doSomething = function () {
     console.log('doSomeThing');
     // return 1; this function doesn't return by default 
